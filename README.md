@@ -8,9 +8,9 @@ Getting Started
 react-codemod:
 To run this project, is necessary to use "react-codemod" to react-native-admob.
 - Clone react-codemod from: https://github.com/reactjs/react-codemod
-- Copy and execute this line from react-codemod folder: jscodeshift -t transforms/React-PropTypes-to-prop-types.js <path>
-  
-    When <path> is the folder of bitcoin-price-br in your machine.
+- Copy and execute this line from react-codemod folder: jscodeshift -t transforms/React-PropTypes-to-prop-types.js 'path'
+  
+    When 'path' is the folder of bitcoin-price-br in your machine.
 
 Android
 
