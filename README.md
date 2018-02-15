@@ -26,4 +26,4 @@ With admob on iOS:
 
 After this steps, you just execute the comands "react-native run-ios" or "react-native run-android" every time that you want to execute this project into the bitcoin-price-br folder;
 
-# Authors Gabriel Hahn Schaeffer - Developer.
+Authors Gabriel Hahn Schaeffer - Developer.
