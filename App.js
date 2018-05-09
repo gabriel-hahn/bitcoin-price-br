@@ -35,7 +35,7 @@ export default class BitcoinPrice extends Component {
         </ImageBackground>
         <AdMobBanner
           adSize="largeBanner"
-          adUnitID="ca-app-pub-3940256099942544/6300978111"
+          adUnitID="Your Admob ID here"
         />
       </View>
     );
