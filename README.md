@@ -15,8 +15,8 @@ Run the project with Emulator or real devices.
 With admob on iOS: 
 - Add react-native-admob static library to your Xcode project - iOS
 
-# After this..
+# After..
 
-After this steps, you just execute the comands "react-native run-ios" or "react-native run-android" every time that you want to execute this project into the bitcoin-price-br folder;
+After those steps, you just execute the comands "react-native run-ios" or "react-native run-android" every time that you want to execute this project into the bitcoin-price-br folder;
 
 Authors Gabriel Hahn Schaeffer - Developer.
