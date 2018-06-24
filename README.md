@@ -1,6 +1,8 @@
 # bitcoin-price-br
 React native app to get atual values of Bitcoin and Dollar, converted to Reais (Brazilian coin).
 
+![image](https://i.imgur.com/mZAhd4Gm.png?1)
+
 # Getting Started
 
 - In bitcoin-price-br folder, execute the comand "npm install";
